@@ -1,0 +1,12 @@
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.vbproj.AssemblyReference.cache
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.Resources.resources
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.vbproj.GenerateResource.cache
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.vbproj.CoreCompileInputs.cache
+C:\Users\dorsa\cps613\AlarmClockApp\bin\Debug\AlarmClockApp.exe.config
+C:\Users\dorsa\cps613\AlarmClockApp\bin\Debug\AlarmClockApp.exe
+C:\Users\dorsa\cps613\AlarmClockApp\bin\Debug\AlarmClockApp.pdb
+C:\Users\dorsa\cps613\AlarmClockApp\bin\Debug\AlarmClockApp.xml
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.exe
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.xml
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.pdb
+C:\Users\dorsa\cps613\AlarmClockApp\obj\Debug\AlarmClockApp.AlarmClockForm.resources
